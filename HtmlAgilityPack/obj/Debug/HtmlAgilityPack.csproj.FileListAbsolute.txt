@@ -1,0 +1,9 @@
+C:\Users\burak\source\repos\HtmlAgilityPack\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.exe.config
+C:\Users\burak\source\repos\HtmlAgilityPack\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.exe
+C:\Users\burak\source\repos\HtmlAgilityPack\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\burak\source\repos\HtmlAgilityPack\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.csprojAssemblyReference.cache
+C:\Users\burak\source\repos\HtmlAgilityPack\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.Form1.resources
+C:\Users\burak\source\repos\HtmlAgilityPack\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.Properties.Resources.resources
+C:\Users\burak\source\repos\HtmlAgilityPack\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\HtmlAgilityPack\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.exe
+C:\Users\burak\source\repos\HtmlAgilityPack\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.pdb
